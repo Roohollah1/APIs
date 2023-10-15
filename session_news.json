@@ -221,6 +221,16 @@
             "forecast":"32.9",
             "previous":"11.3%",
             "date":"Tue Sep 12"
+        },
+         {
+            "impact":0,
+            "currency":"NZD",
+            "time":"3:15 am",
+            "title":"Visitor Arrivals m/m",
+            "actual":"19.8%",
+            "forecast":" ",
+            "previous":"11.3%",
+            "date":"Tue Sep 12"
         }
     ]
 }
