@@ -4,6 +4,19 @@
     "weekend": false,
     "message": "Emotion management and Risk management !",
     "signals":[
-       
+       {
+            "currency":"Wait for signal",
+            "status":" ",
+            "position":" ",
+            "entry":" ",
+            "tp1":" ",
+            "tp2":" ", 
+            "tp3":" ",
+            "tp4":" ",  
+            "tp5":" ",
+            "leverage":" ",
+            "capital":" ",
+            "stop":" "        
+        }
     ]
 }
