@@ -1,0 +1,77 @@
+{
+    "statuCode":200,
+    "Response":"Succesfull",
+    "message":"begin your journey",
+    "noti":[
+        {
+            "title":"UPDATE !",
+            "subtitle":"update of trademate app",
+            "body":"Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.",
+            "date":"1403",
+            "img":"https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D", 
+            "from":"Trademate",  
+            "url":"www.facebook.com",
+            "urlTitle":"click here for going to this page" 
+        },
+        {
+            "title":"UPDATE !",
+            "subtitle":"update of trademate app",
+            "body":"To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.",
+            "date":"2090",
+            "img":"https://images.unsplash.com/photo-1610375461246-83df859d849d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZHxlbnwwfHwwfHx8MA%3D%3D",  
+            "from":"Trademate", 
+            "url":"jkasd",
+            "urlTitle":"click here for going to this page" 
+        },
+        {
+            "title":"UPDATE !",
+            "subtitle":"update of trademate app",
+            "body":"Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.",
+            "date":"3090",
+            "img":"https://images.unsplash.com/photo-1516041774595-cc1b7969480c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGdvbGR8ZW58MHx8MHx8fDA%3D", 
+            "from":"Trademate",  
+            "url":"jkasd",
+            "urlTitle":"click here for going to this page" 
+        },
+        {
+            "title":"UPDATE !",
+            "subtitle":"update of trademate app",
+            "body":"Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.",
+            "date":"5050",
+            "img":"https://images.unsplash.com/photo-1641179497501-6c9dff21382d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGV0aHJldW0lMjBjb2lufGVufDB8fDB8fHww", 
+            "from":"Trademate",  
+            "url":"jkasd",
+            "urlTitle":"click here for going to this page" 
+        },
+        {
+            "title":"UPDATE !",
+            "subtitle":"update of trademate app",
+            "body":"Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.",
+            "date":"5050",
+            "img":"https://media.istockphoto.com/id/963126152/photo/ethereum-and-bitcoin-blockchain.webp?b=1&s=170667a&w=0&k=20&c=O0Z6DG35NkyenglxZj-Lfe9yVrsOmZtascHPwxn5TYU=", 
+            "from":"Trademate",  
+            "url":"jkasd",
+            "urlTitle":"click here for going to this page" 
+        },
+        {
+            "title":"UPDATE !",
+            "subtitle":"update of trademate app",
+            "body":"Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.",
+            "date":"1409",
+            "img":"https://media.istockphoto.com/id/856726478/photo/cryptocurrency-graph-on-virtual-screen-currency-exchange-business-finance-and-technology.webp?b=1&s=170667a&w=0&k=20&c=JC6LZeyYRU96AeLZl0OWFxXtG_DFzZGvPpZj-dIvJuw=", 
+            "from":"Trademate",  
+            "url":"jkasd",
+            "urlTitle":"click here for going to this page" 
+        },
+        {
+            "title":"UPDATE !",
+            "subtitle":"update of trademate app",
+            "body":"To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries",
+            "date":"8090",
+            "img":"https://media.istockphoto.com/id/935330354/photo/source-code-of-ethereum-cryptocurrency-and-decentralized-system-of-contracts-for-the.webp?b=1&s=170667a&w=0&k=20&c=tCTJF3rE5g-4zAyu_KSe32GKAj2-RdNPsl3qGTxEBgI=", 
+            "from":"Trademate",  
+            "url":"jkasd",
+            "urlTitle":"click here for going to this page" 
+        }
+    ]
+}
