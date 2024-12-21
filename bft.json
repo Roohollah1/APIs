@@ -11,6 +11,15 @@
             "broker_url":"https://www.octabroker.com/",
             "type":"Deposit Bonus",
             "bounus_chalange":false
+        },
+           {
+            "broker":"Exness",
+            "broker_icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7JElZDFl-ZnVES8Xvy_ZXRAUk1JEXVwrsA&s",
+            "bounus_amount":"50$",
+            "bounus_description":"Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.",
+            "broker_url":"https://www.exness.com/",
+            "type":"Deposit Bonus",
+            "bounus_chalange":true
         }
     ]
 }
