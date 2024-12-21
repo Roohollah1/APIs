@@ -1,0 +1,16 @@
+{
+    "status":"Succesfull",
+    "from":"Trademate",
+    "message":"Emotion management and Risk management",
+    "data":[
+        {
+            "broker":"OctaFX",
+            "broker_icon":"https://images.sftcdn.net/images/t_app-icon-m/p/8e4ce7b4-0df4-443b-b90f-7b5b9f5270e0/2149633927/octafx-trading-lessons-logo",
+            "bounus_amount":"100$",
+            "bounus_description":"Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.",
+            "broker_url":"https://www.octabroker.com/",
+            "type":"Deposit Bonus",
+            "bounus_chalange":false
+        }
+    ]
+}
