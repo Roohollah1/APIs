@@ -11,6 +11,15 @@
             "broker_url":"https://fxtrendo.com/",
             "type":"No deposit Bonus",
             "bounus_chalange":true
+        },
+         {
+            "broker":"Forexchief",
+            "broker_icon":"https://assets.apk.live/com.forexchief.broker--61-icon.jpg",
+            "bounus_amount":"100$",
+            "bounus_description":"To be eligible for a withdrawal of $100, you must complete a total of 30 lots of trading.\nOnly after reaching this trading volume can you request a withdrawal.\nPlease ensure that all trading activities are completed and meet the specified requirement before initiating the withdrawal process.\n",
+            "broker_url":"https://www.xchief.com/",
+            "type":"No deposit Bonus",
+            "bounus_chalange":true
         }
     ]
 }
